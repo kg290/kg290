@@ -155,9 +155,6 @@ class Karnajeet:
 
 </div>
 
-> To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` *(see setup note below)*
-
 ---
 
 <!-- ─── Connect ──────────────────────────────────────────────────────── -->
