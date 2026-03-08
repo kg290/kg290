@@ -1,6 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════════════════
      GitHub Profile README — kg290 | Karnajeet Gosavi
-     Repo: github.com/kg290/kg290  →  paste this as README.md
      ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -47,6 +46,7 @@ class Karnajeet:
 ---
 
 <!-- ─── Tech Stack ───────────────────────────────────────────────────── -->
+
 ## ⚡ Tech Arsenal
 
 <div align="center">
@@ -86,22 +86,30 @@ class Karnajeet:
 ---
 
 <!-- ─── GitHub Stats ─────────────────────────────────────────────────── -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kg290&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kg290&theme=dark&background=0d0d0d&border=00ff41&ring=00ff41&fire=ff4a4a&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=00ff41&sideLabels=00ff41&dates=555555" width="49%" alt="GitHub Streak"/>
+<a href="https://github.com/kg290">
+  <img src="https://github-readme-stats.vercel.app/api?username=kg290&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/kg290">
+  <img src="https://streak-stats.demolab.com?user=kg290&theme=dark&background=0d0d0d&border=00ff41&ring=00ff41&fire=ff4a4a&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=00ff41&sideLabels=00ff41&dates=555555" width="49%" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg290&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=cccccc&langs_count=8" width="49%" alt="Top Languages"/>
+<a href="https://github.com/kg290">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg290&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=cccccc&langs_count=8" width="49%" alt="Top Languages"/>
+</a>
 
 </div>
 
 ---
 
 <!-- ─── Activity Graph ───────────────────────────────────────────────── -->
+
 ## 🌐 Contribution Activity
 
 <div align="center">
@@ -113,12 +121,13 @@ class Karnajeet:
 ---
 
 <!-- ─── Featured Project Spotlight ──────────────────────────────────── -->
+
 ## 🔬 Spotlight Project
 
 <div align="center">
 
-<a href="https://github.com/kg290">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kg290&repo=kg290&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&description_lines_count=2" alt="Pinned Repo"/>
+<a href="https://github.com/kg290/hack-for-green-bharat_TEAM_DDOS_ME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kg290&repo=hack-for-green-bharat_TEAM_DDOS_ME&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&description_lines_count=2" alt="Pinned Repo"/>
 </a>
 
 </div>
@@ -128,6 +137,7 @@ class Karnajeet:
 ---
 
 <!-- ─── What I'm Currently Cooking ──────────────────────────────────── -->
+
 ## 🧪 Currently Building
 
 ```text
@@ -140,6 +150,7 @@ class Karnajeet:
 ---
 
 <!-- ─── Snake Contribution Animation ─────────────────────────────────── -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -158,13 +169,14 @@ class Karnajeet:
 ---
 
 <!-- ─── Connect ──────────────────────────────────────────────────────── -->
+
 ## 🔗 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kg290-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/kg290)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/karnajeet-gosavi)
-[![Email](https://img.shields.io/badge/Email-Contact-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/karnajeet-gosavi-0797452bb)
+[![Email](https://img.shields.io/badge/Email-Contact-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:karnajeet.gosavi23@vit.edu)
 
 </div>
 
@@ -176,54 +188,3 @@ class Karnajeet:
 
 *"The Matrix has you... but your commits tell the truth."*
 </div>
-
----
-
-<!--
-═══════════════════════════════════════════════════════════════════════
-  SETUP CHECKLIST
-═══════════════════════════════════════════════════════════════════════
-
-  1. CREATE PROFILE REPO
-     - Create a repo named exactly: kg290  (same as your username)
-     - Make it public
-     - Add this file as README.md
-
-  2. SNAKE ANIMATION (.github/workflows/snake.yml)
-     Paste this workflow inside the profile repo:
-
-     name: Generate Snake
-     on:
-       schedule: [{cron: "0 0 * * *"}]
-       workflow_dispatch:
-       push: {branches: [main]}
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: actions/checkout@v3
-           - uses: Platane/snk/svg-only@v3
-             with:
-               github_user_name: kg290
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3.1.0
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. UPDATE PERSONAL LINKS
-     - Replace LinkedIn URL with your actual profile
-     - Replace Email placeholder with your real email
-     - Update pinned repo name if needed
-
-  4. OPTIONAL ENHANCEMENTS
-     - WakaTime stats: add your WakaTime API key to secrets
-       and replace the top-langs card with:
-       https://github-readme-stats.vercel.app/api/wakatime?username=kg290
-
-═══════════════════════════════════════════════════════════════════════
--->
