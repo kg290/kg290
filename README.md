@@ -92,7 +92,7 @@ class Karnajeet:
 <div align="center">
 
 <a href="https://github.com/kg290">
-  <img src="https://github-readme-stats.vercel.app/api?username=kg290&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kg290&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/kg290">
   <img src="https://streak-stats.demolab.com?user=kg290&theme=dark&background=0d0d0d&border=00ff41&ring=00ff41&fire=ff4a4a&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=00ff41&sideLabels=00ff41&dates=555555" width="49%" alt="GitHub Streak"/>
@@ -101,7 +101,7 @@ class Karnajeet:
 <br/><br/>
 
 <a href="https://github.com/kg290">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg290&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=cccccc&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kg290&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=cccccc&langs_count=8" width="49%" alt="Top Languages"/>
 </a>
 
 </div>
@@ -127,7 +127,7 @@ class Karnajeet:
 <div align="center">
 
 <a href="https://github.com/kg290/hack-for-green-bharat_TEAM_DDOS_ME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kg290&repo=hack-for-green-bharat_TEAM_DDOS_ME&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&description_lines_count=2" alt="Pinned Repo"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kg290&repo=hack-for-green-bharat_TEAM_DDOS_ME&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&description_lines_count=2" alt="Pinned Repo"/>
 </a>
 
 </div>
