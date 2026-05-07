@@ -1,157 +1,138 @@
-<!-- ══════════════════════════════════════════════════════════════════════
-     GitHub Profile README — kg290 | Karnajeet Gosavi
-     ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ─── Animated Banner ─────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=Karnajeet%20Gosavi&fontColor=00ff41&fontSize=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Digital%20Architect&descAlignY=58&descColor=cccccc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0b0b0b,58:1f1f1f,82:3a3a3a,100:000000&height=230&section=header&text=Karnajeet%20Gosavi&fontColor=ffffff&fontSize=50&fontAlignY=37&desc=Generalist%20Builder%20%7C%20Systems%20Thinker%20%7C%20Curious%20Engineer&descAlignY=58&descColor=d4d4d8&animation=fadeIn" width="100%"/>
 
-<!-- ─── Typing SVG ────────────────────────────────────────────────────── -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+NLP;Java+%2B+Spring+Boot+%7C+REST+APIs;Agent-based+Workflows+%26+Automation;Building+intelligent+systems+from+scratch;%22Any+sufficiently+advanced+technology...%22" alt="Typing SVG" />
-</a>
+### Generalist builder working across software, systems, and ideas
 
-<!-- ─── Visitor Badge ────────────────────────────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=software+%7C+systems+%7C+automation;security+experiments+%7C+backend+%7C+research;build+widely.+ship+cleanly." alt="Typing SVG" />
+
+I enjoy working across software, automation, backend engineering, security-flavored experiments, and whatever else the problem demands.
 <br/>
-<img src="https://komarev.com/ghpvc/?username=kg290&label=PROFILE+VIEWS&color=00ff41&style=flat-square&labelColor=0d0d0d" alt="Profile views"/>
+I like turning rough ideas into practical, working projects that are useful, well-built, and fun to make.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kg290&label=PROFILE+VIEWS&color=111111&style=flat-square&labelColor=2a2a2a" alt="Profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/kg290?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d0d0d" alt="followers"/>
-
-</div>
-
----
-
-<!-- ─── Matrix GIF Side-by-side About ───────────────────────────────── -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ6enhuY3ZrNGh4bGh5NXliNmpxaW9mMmE0N2M4Y3UzdnZhNmpueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
-
-### `> whoami`
-
-```python
-class Karnajeet:
-    username   = "kg290"
-    location   = "India 🇮🇳"
-    passion    = ["AI/ML", "Computer Vision", "Automation"]
-    current    = "Building intelligent agent workflows"
-    ask_me_about = [
-        "Deep Learning", "Semantic Segmentation",
-        "Spring Boot APIs", "LLM Agents",
-        "Data Science Pipelines",
-    ]
-    fun_fact   = "I debug with print() and I'm proud of it 🙂"
-```
-
-<br clear="right"/>
-
----
-
-<!-- ─── Tech Stack ───────────────────────────────────────────────────── -->
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ff41)
-
-**AI / ML Stack**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff8000)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=f89939)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=00ff41)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=ffd700)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=chainlink&logoColor=00ff41)
-
-**Backend & APIs**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=6db33f)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00ff41)
-![REST API](https://img.shields.io/badge/REST%20APIs-0d0d0d?style=for-the-badge&logo=postman&logoColor=ff6c37)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ed)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f05032)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ffd700)
-![CUDA](https://img.shields.io/badge/CUDA-0d0d0d?style=for-the-badge&logo=nvidia&logoColor=76b900)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-
-</div>
-
----
-
-<!-- ─── GitHub Stats ─────────────────────────────────────────────────── -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/kg290">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kg290&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/kg290">
-  <img src="https://streak-stats.demolab.com?user=kg290&theme=dark&background=0d0d0d&border=00ff41&ring=00ff41&fire=ff4a4a&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=00ff41&sideLabels=00ff41&dates=555555" width="49%" alt="GitHub Streak"/>
-</a>
+<img src="https://img.shields.io/github/followers/kg290?label=FOLLOWERS&style=flat-square&color=111111&labelColor=2a2a2a" alt="followers"/>
 
 <br/><br/>
 
-<a href="https://github.com/kg290">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kg290&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=cccccc&langs_count=8" width="49%" alt="Top Languages"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-kg290-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a)](https://github.com/kg290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2a2a2a)](https://linkedin.com/in/karnajeet-gosavi-0797452bb)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2a2a2a)](mailto:karnajeet.gosavi23@vit.edu)
 
 </div>
 
 ---
 
-<!-- ─── Activity Graph ───────────────────────────────────────────────── -->
-
-## 🌐 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kg290&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&border_color=00ff41&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ─── Featured Project Spotlight ──────────────────────────────────── -->
-
-## 🔬 Spotlight Project
-
-<div align="center">
-
-<a href="https://github.com/kg290/hack-for-green-bharat_TEAM_DDOS_ME">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kg290&repo=hack-for-green-bharat_TEAM_DDOS_ME&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=cccccc&description_lines_count=2" alt="Pinned Repo"/>
-</a>
-
-</div>
-
-> **Offroad Semantic Scene Segmentation** — DeepLabV3 + ResNet-101 trained with a two-phase domain-generalisation strategy. Achieves robust pixel-wise segmentation across 10 terrain classes in synthetic desert environments. Built for *Hack For Green Bharat* by team **DDOS_ME**.
-
----
-
-<!-- ─── What I'm Currently Cooking ──────────────────────────────────── -->
-
-## 🧪 Currently Building
-
-```text
-🔭  Agent-based automation workflows with LLMs
-🌱  Exploring multimodal AI (vision + language)
-🔧  REST API design patterns with Spring Boot
-📡  Deploying ML models at scale with FastAPI + Docker
+```bash
+> whoami
+generalist builder
+software | systems | automation | security experiments | research-driven builds
 ```
 
 ---
 
-<!-- ─── Snake Contribution Animation ─────────────────────────────────── -->
+## About Me
 
-## 🐍 Contribution Snake
+- B.Tech Computer Science student at VIT Pune (2023-2027) with a CGPA of 8.96/10
+- Generalist builder who enjoys moving across engineering, automation, research, experimentation, and product-minded problem solving
+- Interested in turning ambitious ideas into clean, practical systems that actually work
+- Comfortable moving between problem framing, implementation, iteration, and delivery
+
+---
+
+## Across The Stack
+
+- Core engineering: `Python` `Java` `C/C++` `TypeScript` `SQL`
+- Backend and APIs: `FastAPI` `Spring Boot` `REST APIs` `PostgreSQL` `MongoDB`
+- AI and modeling: `PyTorch` `TensorFlow` `OpenCV` `NLP` `Computer Vision`
+- Systems and tooling: `Docker` `Git` `GitHub` `Automation`
+- Exploration areas: `Security` `Data` `Research` `Developer Tools` `Experimentation`
+- Builder mindset: prototyping, debugging, iteration, and shipping
+
+I prefer staying adaptable and picking the right tools for the problem instead of forcing everything into one specialization.
+
+---
+
+## What I Enjoy Building
+
+- Useful software, developer tools, and automation workflows
+- Backend services, APIs, and production-minded software
+- Security ideas, research prototypes, and experimental builds
+- Projects that blend curiosity, engineering depth, and practical impact
+
+---
+
+## Highlights
+
+- Published 3 papers across IEEE and conference venues
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Certified Observability Professional
+- IBM DevOps and Software Engineering Professional Certificate
+- Finalist in multiple hackathons including Bajaj HackRX 2025, Innerve X, Project Morpheus, and Rift 2026
+
+---
+
+## Selected Work
+
+### Offroad Semantic Scene Segmentation
+Semantic segmentation work for unstructured off-road terrain focused on robust scene understanding in difficult environments.
+Built around model training, evaluation, and practical experimentation with computer vision pipelines.
+
+**Repo:** [kg290/Offroad-Semantic-Scene-Segmentation](https://github.com/kg290/Offroad-Semantic-Scene-Segmentation)
+<br/>
+**Area:** Vision, experimentation, applied ML, research-style implementation
+
+### Narrative Consistency Verification System
+A hybrid pipeline for checking narrative consistency using rule-based logic, retrieval, and LLM-backed reasoning.
+Designed to produce evidence-backed outputs instead of shallow yes/no checks.
+
+**Repo:** [kg290/Narrative-Consistency-Verification-System](https://github.com/kg290/Narrative-Consistency-Verification-System)
+<br/>
+**Area:** LLM workflows, evaluation logic, system design, experimentation
+
+### Honey Proxy Deception Firewall
+A security-focused build around deception, traffic handling, and defensive experimentation.
+Centered on building something practical, unusual, and system-oriented rather than purely theoretical work.
+
+**Repo:** [kg290/honey-proxy-deception-firewall](https://github.com/kg290/honey-proxy-deception-firewall)
+<br/>
+**Area:** Security, proxy systems, network thinking, experimentation
+
+### Anti Fingerprint Instruction Shuffler
+Compiler backend workflow for anti-fingerprint instruction shuffling and register renaming.
+Built with a curiosity-first mindset around low-level behavior, resilience, and edge cases.
+
+**Repo:** [kg290/anti-fingerprint-instruction-shuffler](https://github.com/kg290/anti-fingerprint-instruction-shuffler)
+<br/>
+**Area:** Compiler workflow, low-level systems, program transformation, experimentation
+
+---
+
+## Publications
+
+1. [ML Algorithm Benchmarking for Weather Prediction Across India](https://ieeexplore.ieee.org/document/10673211/)  
+   ICCPCT 2024 (IEEE)
+2. [Smart Retail Shelf for Effective Inventory Management](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=4066&id=8)  
+   RTET 2024 (The Grenze)
+3. [Perspective-Powered Personalized News Aggregator: Multi-Dimensional News Analysis and Adaptation](https://ieeexplore.ieee.org/document/11362604/)  
+   ICONAT 2025 (IEEE)
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kg290&bg_color=000000&color=ffffff&line=d4d4d8&point=ffffff&area=true&area_color=1f1f1f&hide_border=false&border_color=262626)](https://github.com/kg290)
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -168,23 +149,16 @@ class Karnajeet:
 
 ---
 
-<!-- ─── Connect ──────────────────────────────────────────────────────── -->
+## Open To
 
-## 🔗 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kg290-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/kg290)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/karnajeet-gosavi-0797452bb)
-[![Email](https://img.shields.io/badge/Email-Contact-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:karnajeet.gosavi23@vit.edu)
-
-</div>
+- Interesting software engineering and builder-focused opportunities
+- Collaborations involving practical systems, research ideas, or ambitious side projects
+- Conversations around engineering, experimentation, and building from scratch
 
 ---
 
-<!-- ─── Footer Wave ──────────────────────────────────────────────────── -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=100&section=footer" width="100%"/>
+## Connect
 
-*"The Matrix has you... but your commits tell the truth."*
-</div>
+- GitHub: [kg290](https://github.com/kg290)
+- LinkedIn: [karnajeet-gosavi-0797452bb](https://linkedin.com/in/karnajeet-gosavi-0797452bb)
+- Email: [karnajeet.gosavi23@vit.edu](mailto:karnajeet.gosavi23@vit.edu)
