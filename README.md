@@ -132,23 +132,6 @@ Built with a curiosity-first mindset around low-level behavior, resilience, and 
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## Open To
 
 - Interesting software engineering and builder-focused opportunities
