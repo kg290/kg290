@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: kg290
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%230b0b0b,%23171717,%23262626,%23404040,%23d4d4d8
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%230b0b0b,%23171717,%23262626,%23404040,%23d4d4d8
+            dist/github-contribution-grid-snake.svg?color_snake=white&color_dots=#0b0b0b,#171717,#262626,#404040,#d4d4d8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#0b0b0b,#171717,#262626,#404040,#d4d4d8
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
