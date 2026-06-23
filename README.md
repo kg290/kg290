@@ -19,7 +19,7 @@ I like turning rough ideas into practical, working projects that are useful, wel
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-kg290-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a)](https://github.com/kg290)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2a2a2a)](https://linkedin.com/in/karnajeet-gosavi-0797452bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2a2a2a)](https://linkedin.com/in/karnajeet-gosavi)
 [![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2a2a2a)](mailto:karnajeet.gosavi23@vit.edu)
 
 </div>
