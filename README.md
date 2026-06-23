@@ -160,5 +160,5 @@ Built with a curiosity-first mindset around low-level behavior, resilience, and 
 ## Connect
 
 - GitHub: [kg290](https://github.com/kg290)
-- LinkedIn: [karnajeet-gosavi-0797452bb](https://linkedin.com/in/karnajeet-gosavi-0797452bb)
+- LinkedIn: [karnajeet-gosavi-0797452bb](https://linkedin.com/in/karnajeet-gosavi)
 - Email: [karnajeet.gosavi23@vit.edu](mailto:karnajeet.gosavi23@vit.edu)
