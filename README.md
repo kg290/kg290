@@ -32,17 +32,6 @@ generalist builder
 software | systems | automation | security experiments | research-driven builds
 ```
 
----
-
-## About Me
-
-- B.Tech Computer Science student at VIT Pune (2023-2027) with a CGPA of 8.96/10
-- Generalist builder who enjoys moving across engineering, automation, research, experimentation, and product-minded problem solving
-- Interested in turning ambitious ideas into clean, practical systems that actually work
-- Comfortable moving between problem framing, implementation, iteration, and delivery
-
----
-
 ## Across The Stack
 
 - Core engineering: `Python` `Java` `C/C++` `TypeScript` `SQL`
