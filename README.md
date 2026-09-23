@@ -39,21 +39,7 @@ software | systems | automation | security experiments | research-driven builds
 - AI and modeling: `PyTorch` `TensorFlow` `OpenCV` `NLP` `Computer Vision`
 - Systems and tooling: `Docker` `Git` `GitHub` `Automation`
 - Exploration areas: `Security` `Data` `Research` `Developer Tools` `Experimentation`
-- Builder mindset: prototyping, debugging, iteration, and shipping
-
-I prefer staying adaptable and picking the right tools for the problem instead of forcing everything into one specialization.
-
----
-
-## What I Enjoy Building
-
-- Useful software, developer tools, and automation workflows
-- Backend services, APIs, and production-minded software
-- Security ideas, research prototypes, and experimental builds
-- Projects that blend curiosity, engineering depth, and practical impact
-
----
-
+  
 ## Highlights
 
 - Published 3 papers across IEEE and conference venues
@@ -73,14 +59,6 @@ Built around model training, evaluation, and practical experimentation with comp
 **Repo:** [kg290/Offroad-Semantic-Scene-Segmentation](https://github.com/kg290/Offroad-Semantic-Scene-Segmentation)
 <br/>
 **Area:** Vision, experimentation, applied ML, research-style implementation
-
-### Narrative Consistency Verification System
-A hybrid pipeline for checking narrative consistency using rule-based logic, retrieval, and LLM-backed reasoning.
-Designed to produce evidence-backed outputs instead of shallow yes/no checks.
-
-**Repo:** [kg290/Narrative-Consistency-Verification-System](https://github.com/kg290/Narrative-Consistency-Verification-System)
-<br/>
-**Area:** LLM workflows, evaluation logic, system design, experimentation
 
 ### Honey Proxy Deception Firewall
 A security-focused build around deception, traffic handling, and defensive experimentation.
