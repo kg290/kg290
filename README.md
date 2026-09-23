@@ -89,16 +89,6 @@ Built with a curiosity-first mindset around low-level behavior, resilience, and 
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kg290&bg_color=000000&color=ffffff&line=d4d4d8&point=ffffff&area=true&area_color=1f1f1f&hide_border=false&border_color=262626)](https://github.com/kg290)
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
