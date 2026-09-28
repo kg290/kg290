@@ -42,11 +42,9 @@ software | systems | automation | security experiments | research-driven builds
   
 ## Highlights
 
-- Published 3 papers across IEEE and conference venues
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 - Oracle Cloud Infrastructure 2025 Certified Observability Professional
 - IBM DevOps and Software Engineering Professional Certificate
-- Finalist in multiple hackathons including Bajaj HackRX 2025, Innerve X, Project Morpheus, and Rift 2026
 
 ---
 
@@ -103,14 +101,6 @@ Built with a curiosity-first mindset around low-level behavior, resilience, and 
 </picture>
 
 </div>
-
----
-
-## Open To
-
-- Interesting software engineering and builder-focused opportunities
-- Collaborations involving practical systems, research ideas, or ambitious side projects
-- Conversations around engineering, experimentation, and building from scratch
 
 ---
 
