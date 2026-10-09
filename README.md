@@ -14,7 +14,7 @@
 
 ---
 
-B.Tech Computer Science at **VIT Pune** (2023–2027) · **CGPA 8.96/10**
+B.Tech Computer Science at **VIT Pune** (2023–2027) · **CGPA 8.98/10**
 
 I build across software engineering, backend systems, security research, and applied ML. I don't specialize early — I go where the problem leads, pick the right tools, and ship things that work. Three research papers published, three professional certifications earned, and four hackathon finals reached — all before my fourth year.
 
