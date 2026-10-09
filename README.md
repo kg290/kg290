@@ -125,7 +125,7 @@ I build across software engineering, backend systems, security research, and app
 <a href="https://github.com/kg290">
   <img height="160em" src="https://streak-stats.demolab.com/?user=kg290&background=0d1117&border=30363d&stroke=30363d&ring=f97316&fire=f97316&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=475569" alt="Streak"/>
   &nbsp;
-  <img height="160em" src="https://github-contributor-stats.vercel.app/api?username=kg290&limit=4&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&border_color=30363d&title_color=f97316&text_color=9ca3af&hide_border=false" alt="Top Contributed Repos"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=kg290&repo=Offroad-Semantic-Scene-Segmentation&bg_color=0d1117&border_color=30363d&icon_color=f97316&title_color=f97316&text_color=9ca3af&hide_border=false" alt="Pinned Repo"/>
 </a>
 
 </div>
