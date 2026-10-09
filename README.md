@@ -18,6 +18,10 @@ B.Tech Computer Science at **VIT Pune** (2023–2027) · **CGPA 8.96/10**
 
 I build across software engineering, backend systems, security research, and applied ML. I don't specialize early — I go where the problem leads, pick the right tools, and ship things that work. Three research papers published, three professional certifications earned, and four hackathon finals reached — all before my fourth year.
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=no+shortcuts.+no+half-measures.;build+it+right+or+don't+build+it.;curiosity-driven.+systems-minded.;ship+clean.+iterate+fast." alt="Typing SVG" />
+</div>
+
 ---
 
 <div align="center">
@@ -113,18 +117,16 @@ I build across software engineering, backend systems, security research, and app
 <a href="https://github.com/kg290">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kg290&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=a855f7&title_color=ec4899&text_color=9ca3af&ring_color=a855f7&hide_border=false&card_width=320" alt="Stats"/>
   &nbsp;
-  <img height="160em" src="https://streak-stats.demolab.com/?user=kg290&background=0d1117&border=30363d&stroke=30363d&ring=f97316&fire=f97316&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=475569" alt="Streak"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg290&layout=compact&bg_color=0d1117&border_color=30363d&title_color=22d3ee&text_color=9ca3af&langs_count=8&hide_border=false" alt="Top Languages"/>
 </a>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 3D Contribution Calendar
-
-<img src="https://raw.githubusercontent.com/kg290/kg290/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="80%"/>
+<a href="https://github.com/kg290">
+  <img height="160em" src="https://streak-stats.demolab.com/?user=kg290&background=0d1117&border=30363d&stroke=30363d&ring=f97316&fire=f97316&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=475569" alt="Streak"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg290&layout=donut&bg_color=0d1117&border_color=30363d&title_color=f97316&text_color=9ca3af&langs_count=6&hide_border=false" alt="Language Donut"/>
+</a>
 
 </div>
 
