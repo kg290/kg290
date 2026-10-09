@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:1a1a2e,40:16213e,60:0f3460,80:533483,100:0d1117&height=200&text=KARNAJEET%20GOSAVI&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Generalist%20Builder%20%C2%B7%20Systems%20%C2%B7%20Security%20%C2%B7%20Research&descColor=d4d4d8&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=36&lines=shipping+systems+that+actually+work;3+published+papers+%C2%B7+4x+hackathon+finalist;software+%C2%B7+security+%C2%B7+ML+%C2%B7+backend+%C2%B7+experimentation;build+widely.+ship+cleanly.+stay+curious." alt="Typing SVG" />
 
@@ -156,4 +156,4 @@ I build across software engineering, backend systems, security research, and app
 
 </div>
 
-<img src="./assets/footer-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a1a2e,40:16213e,60:0f3460,80:533483,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
