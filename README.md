@@ -156,4 +156,4 @@ I build across software engineering, backend systems, security research, and app
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:6c5ce7,28:a855f7,44:ec4899,58:f97316,72:22d3ee,86:6c5ce7,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,12:6c5ce7,28:a855f7,44:ec4899,58:f97316,72:22d3ee,86:6c5ce7,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
