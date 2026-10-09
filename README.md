@@ -125,7 +125,7 @@ I build across software engineering, backend systems, security research, and app
 <a href="https://github.com/kg290">
   <img height="160em" src="https://streak-stats.demolab.com/?user=kg290&background=0d1117&border=30363d&stroke=30363d&ring=f97316&fire=f97316&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=475569" alt="Streak"/>
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg290&layout=donut&bg_color=0d1117&border_color=30363d&title_color=f97316&text_color=9ca3af&langs_count=6&hide_border=false" alt="Language Donut"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kg290&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=f97316&title_color=f97316&text_color=9ca3af&ring_color=f97316&hide_border=false&card_width=320&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Extended Stats"/>
 </a>
 
 </div>
