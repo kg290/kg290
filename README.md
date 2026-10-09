@@ -1,104 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0b0b0b,58:1f1f1f,82:3a3a3a,100:000000&height=230&section=header&text=Karnajeet%20Gosavi&fontColor=ffffff&fontSize=50&fontAlignY=37&desc=Generalist%20Builder%20%7C%20Systems%20Thinker%20%7C%20Curious%20Engineer&descAlignY=58&descColor=d4d4d8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:6c5ce7,28:a855f7,44:ec4899,58:f97316,72:22d3ee,86:6c5ce7,100:0d1117&height=200&text=KARNAJEET%20GOSAVI&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Generalist%20Builder%20%C2%B7%20Systems%20%C2%B7%20Security%20%C2%B7%20Research&descColor=d4d4d8&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-### Generalist builder working across software, systems, and ideas
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=36&lines=shipping+systems+that+actually+work;3+published+papers+%C2%B7+4x+hackathon+finalist;software+%C2%B7+security+%C2%B7+ML+%C2%B7+backend+%C2%B7+experimentation;build+widely.+ship+cleanly.+stay+curious." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=software+%7C+systems+%7C+automation;security+experiments+%7C+backend+%7C+research;build+widely.+ship+cleanly." alt="Typing SVG" />
+<a href="https://github.com/kg290"><img src="https://img.shields.io/badge/GitHub-kg290-6c5ce7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117"/></a>&nbsp;
+<a href="https://linkedin.com/in/karnajeet-gosavi-0797452bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117"/></a>&nbsp;
+<a href="mailto:karnajeet.gosavi23@vit.edu"><img src="https://img.shields.io/badge/Email-Contact-ec4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117"/></a>
 
-I enjoy working across software, automation, backend engineering, security-flavored experiments, and whatever else the problem demands.
-<br/>
-I like turning rough ideas into practical, working projects that are useful, well-built, and fun to make.
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kg290&label=PROFILE+VIEWS&color=111111&style=flat-square&labelColor=2a2a2a" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/kg290?label=FOLLOWERS&style=flat-square&color=111111&labelColor=2a2a2a" alt="followers"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-kg290-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a)](https://github.com/kg290)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2a2a2a)](https://linkedin.com/in/karnajeet-gosavi)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2a2a2a)](mailto:karnajeet.gosavi23@vit.edu)
+<img src="https://komarev.com/ghpvc/?username=kg290&label=VIEWS&color=a855f7&style=flat-square&labelColor=0d1117"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/kg290?label=FOLLOWERS&style=flat-square&color=22d3ee&labelColor=0d1117"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/kg290?label=STARS&style=flat-square&color=f97316&labelColor=0d1117&affiliations=OWNER"/>
 
 </div>
 
 ---
 
-```bash
-> whoami
-generalist builder
-software | systems | automation | security experiments | research-driven builds
-```
+B.Tech Computer Science at **VIT Pune** (2023–2027) · **CGPA 8.96/10**
 
-## Across The Stack
-
-- Core engineering: `Python` `Java` `C/C++` `TypeScript` `SQL`
-- Backend and APIs: `FastAPI` `Spring Boot` `REST APIs` `PostgreSQL` `MongoDB`
-- AI and modeling: `PyTorch` `TensorFlow` `OpenCV` `NLP` `Computer Vision`
-- Systems and tooling: `Docker` `Git` `GitHub` `Automation`
-- Exploration areas: `Security` `Data` `Research` `Developer Tools` `Experimentation`
-  
-## Highlights
-
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- Oracle Cloud Infrastructure 2025 Certified Observability Professional
-- IBM DevOps and Software Engineering Professional Certificate
+I build across software engineering, backend systems, security research, and applied ML. I don't specialize early — I go where the problem leads, pick the right tools, and ship things that work. Three research papers published, three professional certifications earned, and four hackathon finals reached — all before my fourth year.
 
 ---
-
-## Selected Work
-
-### Offroad Semantic Scene Segmentation
-Semantic segmentation work for unstructured off-road terrain focused on robust scene understanding in difficult environments.
-Built around model training, evaluation, and practical experimentation with computer vision pipelines.
-
-**Repo:** [kg290/Offroad-Semantic-Scene-Segmentation](https://github.com/kg290/Offroad-Semantic-Scene-Segmentation)
-<br/>
-**Area:** Vision, experimentation, applied ML, research-style implementation
-
-### Honey Proxy Deception Firewall
-A security-focused build around deception, traffic handling, and defensive experimentation.
-Centered on building something practical, unusual, and system-oriented rather than purely theoretical work.
-
-**Repo:** [kg290/honey-proxy-deception-firewall](https://github.com/kg290/honey-proxy-deception-firewall)
-<br/>
-**Area:** Security, proxy systems, network thinking, experimentation
-
-### Anti Fingerprint Instruction Shuffler
-Compiler backend workflow for anti-fingerprint instruction shuffling and register renaming.
-Built with a curiosity-first mindset around low-level behavior, resilience, and edge cases.
-
-**Repo:** [kg290/anti-fingerprint-instruction-shuffler](https://github.com/kg290/anti-fingerprint-instruction-shuffler)
-<br/>
-**Area:** Compiler workflow, low-level systems, program transformation, experimentation
-
----
-
-## Publications
-
-1. [ML Algorithm Benchmarking for Weather Prediction Across India](https://ieeexplore.ieee.org/document/10673211/)  
-   ICCPCT 2024 (IEEE)
-2. [Smart Retail Shelf for Effective Inventory Management](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=4066&id=8)  
-   RTET 2024 (The Grenze)
-3. [Perspective-Powered Personalized News Aggregator: Multi-Dimensional News Analysis and Adaptation](https://ieeexplore.ieee.org/document/11362604/)  
-   ICONAT 2025 (IEEE)
-
----
-
-## Contribution Snake
 
 <div align="center">
 
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,fastapi,spring,pytorch,tensorflow,opencv,postgres,mongodb,docker,git,github,linux,vscode&perline=8&theme=dark" alt="Tech Stack"/>
+
+`Python` · `Java` · `C/C++` · `TypeScript` · `SQL` · `FastAPI` · `Spring Boot` · `PostgreSQL` · `MongoDB` · `REST APIs` · `PyTorch` · `TensorFlow` · `OpenCV` · `NLP` · `Computer Vision` · `Docker` · `Git` · `Linux` · `CI/CD` · `Automation`
+
+</div>
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔬 [Offroad Semantic Scene Segmentation](https://github.com/kg290/Offroad-Semantic-Scene-Segmentation)**
+<br/>Semantic segmentation for unstructured off-road terrain. Robust scene understanding where standard models fail.
+<br/>`Computer Vision` `PyTorch` `Research`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 [Narrative Consistency Verification](https://github.com/kg290/Narrative-Consistency-Verification-System)**
+<br/>Hybrid rule-based + LLM reasoning pipeline. Evidence-backed consistency checks, not shallow yes/no.
+<br/>`LLM Workflows` `NLP` `System Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ [Honey Proxy Deception Firewall](https://github.com/kg290/honey-proxy-deception-firewall)**
+<br/>Deception-based security — proxy traffic handling and defensive experimentation. Unconventional by design.
+<br/>`Security` `Networking` `Proxy Systems`
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ [Anti-Fingerprint Instruction Shuffler](https://github.com/kg290/anti-fingerprint-instruction-shuffler)**
+<br/>Compiler backend for instruction shuffling and register renaming. Low-level behavior and edge cases.
+<br/>`Compilers` `Low-Level Systems` `Research`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+### Research
+
+- **[ML Benchmarking for Weather Prediction](https://ieeexplore.ieee.org/document/10673211/)** — IEEE ICCPCT 2024
+- **[Smart Retail Shelf for Inventory](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=4066&id=8)** — RTET 2024
+- **[Personalized News Aggregator](https://ieeexplore.ieee.org/document/11362604/)** — IEEE ICONAT 2025
+
+</td>
+<td width="33%" valign="top">
+
+### Certifications
+
+- Oracle OCI 2025 — Generative AI Professional
+- Oracle OCI 2025 — Observability Professional
+- IBM — DevOps & Software Engineering Professional
+
+</td>
+<td width="33%" valign="top">
+
+### Competitions
+
+- Bajaj HackRX 2025 — Finalist
+- Innerve X — Finalist
+- Project Morpheus — Finalist
+- Rift 2026 — Finalist
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### GitHub Analytics
+
+<a href="https://github.com/kg290">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kg290&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=a855f7&title_color=ec4899&text_color=9ca3af&ring_color=a855f7&hide_border=false&card_width=320" alt="Stats"/>
+  &nbsp;
+  <img height="160em" src="https://streak-stats.demolab.com/?user=kg290&background=0d1117&border=30363d&stroke=30363d&ring=f97316&fire=f97316&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=475569" alt="Streak"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 3D Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/kg290/kg290/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="80%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Open Source Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kg290/kg290/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=4000&pause=2000&color=9CA3AF&center=true&vCenter=true&repeat=true&width=480&height=28&lines=open+to+engineering+roles+and+research+collaborations;always+building+something+%E2%80%94+let's+connect" alt="Typing SVG" />
+
+<a href="https://github.com/kg290"><img src="https://img.shields.io/badge/GitHub-kg290-6c5ce7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117"/></a>&nbsp;
+<a href="https://linkedin.com/in/karnajeet-gosavi-0797452bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117"/></a>&nbsp;
+<a href="mailto:karnajeet.gosavi23@vit.edu"><img src="https://img.shields.io/badge/Email-Contact-ec4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:6c5ce7,28:a855f7,44:ec4899,58:f97316,72:22d3ee,86:6c5ce7,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
