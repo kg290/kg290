@@ -12,7 +12,7 @@
 
 </div>
 
----
+ 
 
 B.Tech Computer Science at **VIT Pune** (2023–2027) · **CGPA 8.98/10**
 
@@ -22,7 +22,7 @@ I build across software engineering, backend systems, security research, and app
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=no+shortcuts.+no+half-measures.;build+it+right+or+don't+build+it.;curiosity-driven.+systems-minded.;ship+clean.+iterate+fast." alt="Typing SVG" />
 </div>
 
----
+ 
 
 <div align="center">
 
@@ -34,7 +34,7 @@ I build across software engineering, backend systems, security research, and app
 
 </div>
 
----
+ 
 
 ### Featured Projects
 
@@ -73,7 +73,7 @@ I build across software engineering, backend systems, security research, and app
 </tr>
 </table>
 
----
+ 
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ I build across software engineering, backend systems, security research, and app
 </tr>
 </table>
 
----
+ 
 
 <div align="center">
 
@@ -130,7 +130,7 @@ I build across software engineering, backend systems, security research, and app
 
 </div>
 
----
+ 
 
 <div align="center">
 
@@ -144,7 +144,7 @@ I build across software engineering, backend systems, security research, and app
 
 </div>
 
----
+ 
 
 <div align="center">
 
