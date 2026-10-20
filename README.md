@@ -16,7 +16,7 @@
 
 B.Tech Computer Science at **VIT PUNE** (2023–2027) · **CGPA 9.0/10**
 
-I build across software engineering, backend systems, security research, and applied ML. I don't specialize early — I go where the problem leads, pick the right tools, and ship things that work. Three research papers published, three professional certifications earned, and four hackathon finals reached — all before my fourth year.
+I build across software engineering, backend systems, security research, and applied ML. I don't specialize early — I go where the problem leads, pick the right tools, and ship things that work. Three research papers published, three professional certifications earned, and four hackathon finals reached .
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=no+shortcuts.+no+half-measures.;build+it+right+or+don't+build+it.;curiosity-driven.+systems-minded.;ship+clean.+iterate+fast." alt="Typing SVG" />
